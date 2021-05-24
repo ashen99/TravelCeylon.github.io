@@ -1,0 +1,64 @@
+body{
+	margin:0px;
+	background-color:#E9EBF2;
+	
+
+}
+
+
+.start{
+	float:right;
+	padding:1%;
+	line-height:25px;
+	background-color:#E8EDF8;
+	border-left: 10px solid #0A3290;
+}
+
+.start h2{
+	font-family:Verdana;
+	font-size: 23px;
+}
+
+.start p{
+	font-family: sans-serif;
+	color:#4A4848;
+}
+
+
+.role h3{
+	font-family: Verdana;
+	margin: 30px;
+	color: #1B7AD9;	
+}
+
+
+.role p{
+	padding:2%;
+	font-family:sans-serif;
+	line-height:24px;
+	color:#1B1C1E;
+}
+
+.listoftask h3{
+	font-family: Verdana;
+	margin: 30px;
+	color:#1B7AD9;	
+}
+
+.listoftask ul {
+  padding: 0;
+  margin: 100px auto;
+  margin-left: 220px;
+  line-height: 40px;
+}
+
+	
+
+
+.listoftask li{
+	font-family: sans-serif;
+	color:#1B1C1E;
+}
+
+
+

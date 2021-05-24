@@ -1,0 +1,170 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ul{
+padding:0px;
+margin:0px;
+list-style:none;
+box-sizing: border-box;
+font-family: 'Open Sans', sans-serif;
+margin-right:20px;
+float: right;
+top:80px;
+
+}
+nav{
+height:80px;
+width:100%;
+}
+nav .current{
+  background-color: black;
+}
+nav ul li{
+display:inline-block;
+line-height:80px;
+margin:0 5px;
+}
+nav ul{
+position: sticky;
+}
+nav ul li a{
+color:white;
+font-size:20px;
+padding:10px 20px;
+border-radius: 50px;
+text-decoration:none;
+}
+nav ul li a:hover{
+background:#EFFBF8;
+color:black;
+transition: all 0.9s ease 0s;
+}
+label.logo{
+color:black;
+font-size:45px;
+line-height:80px;
+padding: 0 20px;
+font-family: 'Cookie', cursive;
+}
+.footer{
+  position: absolute;
+  width: 100%;
+  height:400px;
+  top: 1000px;
+  background-color: #18181a;
+
+}
+.logo_container{
+  color: white;
+  font-size: 40px;
+  position: absolute;
+  left: 70px;
+  font-family: 'Cookie', cursive;
+  top: 110px;
+}
+.footer_third{
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  left: 350px;
+  top: 100px;
+
+
+}
+.footer_third h1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  color: white;
+}
+.footer_third a{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: white;
+  text-decoration: none;
+}
+.footer_third1{
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  left: 640px;
+  top: 100px;
+
+
+}
+.footer_third1 h1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  color: white;
+}
+.footer_third1 a{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: white;
+  text-decoration: none;
+}
+.footer_third2{
+  width: 500px;
+  height: 200px;
+  position: absolute;
+  left: 840px;
+  top: 100px;
+}
+.footer_third2 h1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  color: white;
+}
+.footer_third2 p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  color: white;
+  text-decoration: none;
+}
+.fb{
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top:160px;
+}
+.insta{
+  width: 46px;
+  height: 46px;
+  position: absolute;
+  top:170px;
+  left: 70px;
+}
+.tw{
+  width: 46px;
+  height: 46px;
+  position: absolute;
+  top:170px;
+  left: 134px;
+}
+.wt{
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  top: 180px;
+  left: 144px;
+  background-color: white;
+}
+.top{
+  position: fixed;
+  bottom: 20px;
+  right: 47px;
+  z-index: 90;
+  width: 90px;
+
+  height: 20px;
+  background-color: white;
+}
+.back{
+  position: fixed;
+  bottom: 20px;
+  right: 50px;
+  z-index: 99;
+  text-decoration: none;
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+}
