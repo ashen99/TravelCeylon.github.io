@@ -1,0 +1,172 @@
+ body {
+
+  padding: 0;
+  margin: 0;
+  background-image:url('images//kk.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+
+}
+label.logo1{
+color:white;
+font-size:45px;
+line-height:80px;
+padding: 0 20px;
+font-family: 'Cookie', cursive;
+}
+ #frame001 {
+	border-radius: 10px;
+    border: 2px solid black;
+    height: 450px;
+    width: 600px;
+	background-color:#FFF8DC;
+	float:center;
+	 margin: auto;
+	padding: 10px;
+
+        }
+
+  .buttons001 {
+        background-color: dodgerblue;
+        color: white;
+		width: 70px;
+         height: 30px;
+        border-radius: 5px;
+
+        }
+
+  .buttons001:hover {
+            background-color:#CD853F;
+
+        }
+
+ .buttons002 {
+           background-color: blue;
+            color: white;
+            width: 100px;
+            height: 30px;
+            border-radius: 5px;
+        }
+
+ #font001 {
+     text-align: center;
+	  font-size: 20px;
+      color: black;
+        }
+
+.footer{
+  position: absolute;
+  width: 100%;
+  height:400px;
+  top: 1000px;
+  background-color: #18181a;
+
+}
+.logo_container{
+  color: white;
+  font-size: 40px;
+  position: absolute;
+  left: 70px;
+  font-family: 'Cookie', cursive;
+  top: 110px;
+}
+.footer_third{
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  left: 350px;
+  top: 100px;
+
+
+}
+.footer_third h1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  color: white;
+}
+.footer_third a{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: white;
+  text-decoration: none;
+}
+.footer_third1{
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  left: 640px;
+  top: 100px;
+
+
+}
+.footer_third1 h1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  color: white;
+}
+.footer_third1 a{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: white;
+  text-decoration: none;
+}
+.footer_third2{
+  width: 500px;
+  height: 200px;
+  position: absolute;
+  left: 840px;
+  top: 100px;
+}
+.footer_third2 h1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  color: white;
+}
+.footer_third2 p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  color: white;
+  text-decoration: none;
+}
+.fb{
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top:160px;
+}
+.insta{
+  width: 46px;
+  height: 46px;
+  position: absolute;
+  top:170px;
+  left: 70px;
+}
+.tw{
+  width: 46px;
+  height: 46px;
+  position: absolute;
+  top:170px;
+  left: 134px;
+}
+.wt{
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  top: 180px;
+  left: 144px;
+  background-color: white;
+}
+
+.pg-editor{
+  position: absolute;
+  left: 1080px;
+  height: 250px;
+  width: 250px;
+  top: 40px;
+  text-align: center;
+  color: white;
+  font-size: 24px;
+  border: white;
+  border-radius: 2px;
+}
